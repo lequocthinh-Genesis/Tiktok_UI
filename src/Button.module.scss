@@ -1,0 +1,12 @@
+.btn {
+    padding: 4px 16px;
+    color: red;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.active {
+    background-color: aqua;
+}
