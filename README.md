@@ -1,3 +1,29 @@
+# Toktok UI
+
+<img src="https://github.com/lequocthinh-Genesis/FNG-demo-1/blob/master/assets/img/FNG-logo.png?raw=true">
+
+## Mô tả project:
+
+- Đây là project tôi thực hiện trong quá trình học ReactJS tại: https://fullstack.edu.vn/
+
+## Công nghệ sử dụng:
+
+- Ngôn ngữ:
+  - `HTML`
+  - `CSS`
+  - `javascript`
+- Thư viện và Framework 
+  - `ReactJS`
+  - `Babel`
+  - `Sass`
+  - `React router dom`
+  - `Normalize`
+  - `Axios`
+  - `Tippy`
+  - `classnames`
+  - `Customize`
+  - `Fontawesome`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
