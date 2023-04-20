@@ -4,7 +4,7 @@
 
 ## Mô tả project:
 
-- Đây là project tôi thực hiện trong quá trình học ReactJS tại: https://fullstack.edu.vn/
+- Đây là project clone giao diện tiktok bằng ReactJS
 
 ## Công nghệ sử dụng:
 
